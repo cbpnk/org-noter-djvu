@@ -5,8 +5,8 @@
 ;; Author: c1-g <char1iegordon@protonmail.com>
 ;; Homepage: https://github.com/cbpnk/org-noter-djvu
 ;; Keywords: org-noter djvu
-;; Package-Requires: ((org-noter-core "1.4.2") (djvu "1.1.2"))
-;; Version: 1.4.2
+;; Package-Requires: ((org-noter-core "1.5.0") (djvu "1.1.2"))
+;; Version: 1.5.0
 
 ;; This file is not part of GNU Emacs.
 
